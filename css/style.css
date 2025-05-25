@@ -73,7 +73,7 @@
 
 /* Hero Section */
 .hero {
-  background: url('../images/bg.jpg');
+  background: url('images/bg.jpg');
   color: white;
   height: 350px;
   display: flex;
